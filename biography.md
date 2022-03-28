@@ -1,6 +1,8 @@
 # hello
 
-im not bothered to write this sorry
+my name is K01e                                                   
+i also go by dev, devk, and a few other names
 
 
-you should come back later
+theres another thing that i should probably include in this but i dont want to                        
+dont worry you'll get to learn what it is soon
