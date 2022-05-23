@@ -21,6 +21,6 @@ Below are the join instructions for the server, please read from the instruction
 3. Click `Add Server`.
 3. Enter `cooki3smp` into the `Name` feild.
 4. Enter `cooki3smp.my.pebble.host` into the `Address` feild.
-5. Enter `25583` into the `Port` feild.
+5. Enter `25586` into the `Port` feild.
 6. Ask @K01e to whitelist you. (make sure to give your gamertag!)
 7. Join the server.
