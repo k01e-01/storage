@@ -4,7 +4,8 @@ brew install pyenv pipx
 pyenv install 3.10.1
 pyenv local 3.10.1
 pipx ensurepath
-pipx install --python ${which python} txsweeper
+path=${which python}
+pipx install --python $path txsweeper
 pyenv local system
 
 echo Done!
