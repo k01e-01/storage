@@ -9,3 +9,4 @@ pipx install --python $path txsweeper
 pyenv local system
 
 echo Done!
+ 
