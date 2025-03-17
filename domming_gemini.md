@@ -1,6 +1,3 @@
-## assistant:
-
-
 ## user:
 discussing ios jailbreaking with a friend
 
