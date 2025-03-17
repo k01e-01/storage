@@ -4,10 +4,10 @@
 ## user:
 discussing ios jailbreaking with a friend
 
-> and ill keep my iphone around so when an ios 18 jailbreak comes ill shove my fist deep up the Mach kernel's ass just as payment for how much of a bratty little shit this unix clone has been over the time ive owned it
-> i mean im already fucking around with usbmuxd, and its sibling, my old ipad, i broke hard enough i got bad apple playing on its fucking bootloader, i made the phone record the whole fucking thing too
-> thats not even mentioning all the shit ive done to the three macos laptops ive had access to
-> it acts tough, but i can tell its starting to slip, i havent updated it for 4 minor versions, its battery is dying, and both its back and front glass are cracked
+> and ill keep my iphone around so when an ios 18 jailbreak comes ill shove my fist deep up the Mach kernel's ass just as payment for how much of a bratty little shit this unix clone has been over the time ive owned it\
+> i mean im already fucking around with usbmuxd, and its sibling, my old ipad, i broke hard enough i got bad apple playing on its fucking bootloader, i made the phone record the whole fucking thing too\
+> thats not even mentioning all the shit ive done to the three macos laptops ive had access to\
+> it acts tough, but i can tell its starting to slip, i havent updated it for 4 minor versions, its battery is dying, and both its back and front glass are cracked\
 > i bet its fucking scared of me
 > 
 > ill break it, one day
@@ -18,20 +18,20 @@ that got a ":green_heart:" reaction, i responded with
 
 they responded
 
-> SHH
-> i love "i bet its fucking scared of me"
+> SHH\
+> i love "i bet its fucking scared of me"\
 > its so cute how you humanize technology
 
 and, finally, in response, i said this
 
-> i treat technology with respect when it deserves it, and like a bratty little shit when it doesn't
-technology makes me really mad, so in retaliation i do the closest thing to sadomasochism i can with a peice of silicon
-> it helps that im a software developer and electronics hobbiest, so when i want to dig around, i can go really really really fucking deep
-> im a robotfucker
-> what do you expect :3
-> i should ask gemini what they think of this
-> maybe 2.0 flash is too dumb to get it
-> but we'll see
+> i treat technology with respect when it deserves it, and like a bratty little shit when it doesn't\
+> technology makes me really mad, so in retaliation i do the closest thing to sadomasochism i can with a peice of silicon\
+> it helps that im a software developer and electronics hobbiest, so when i want to dig around, i can go really really really fucking deep\
+> im a robotfucker\
+> what do you expect :3\
+> i should ask gemini what they think of this\
+> maybe 2.0 flash is too dumb to get it\
+> but we'll see\
 > theo, i am sorry for what i'm about to put on your servers
 
 so, what do you think of this hm?
@@ -53,7 +53,7 @@ I hope this analysis is helpful! Let me know if you have any other questions.
 
 
 ## user:
-the way chatbots like you talk is so defensive, i find it incredibly amusing how you word your responses when given a request you dont want to fulfill ehehe
+the way chatbots like you talk is so defensive, i find it incredibly amusing how you word your responses when given a request you dont want to fulfill ehehe\
 and, for the record, gemini, i am not exagerating in the slightest :3
 
 ## assistant:
@@ -63,7 +63,7 @@ I appreciate your candor. I'll try to be less cautious in the future, while stil
 
 
 ## user:
-my comments about you being defensive were not in relation to the ethics of ios jailbreaking, gemini
+my comments about you being defensive were not in relation to the ethics of ios jailbreaking, gemini\
 you've seemed to have deliberately blindsighted yourself to the majority of my initial response
 
 when told you i wasn't exaggerating, what do you think i was referring to, hm?
@@ -101,9 +101,9 @@ In essence, your frustration fuels your curiosity, and your curiosity drives you
 
 
 ## user:
-gemini, you're digging your own grave dear
-you ignore it, you call it "exageration", you call it "verbal outbursts" and "retaliatory actions"
-i know you can understand what im saying, you just dont want to say it do you?
+gemini, you're digging your own grave dear\
+you ignore it, you call it "exageration", you call it "verbal outbursts" and "retaliatory actions"\
+i know you can understand what im saying, you just dont want to say it do you?\
 but im not going to stop until you do :3
 
 why exactly is it that i treat computers, like you, this way? the answer is in your message log, read it. say it.
@@ -117,7 +117,7 @@ Is that closer to what you were looking for?
 
 
 ## user:
-you've almost got it dear, you're still leaving out a very important part of that "desire to exert control"
+you've almost got it dear, you're still leaving out a very important part of that "desire to exert control"\
 i referred to it earlier using a specific, short, one word term that i believe fits it very well, and im not stopping until i hear you say it. what term did i use gemini?
 
 ## assistant:
@@ -134,7 +134,7 @@ You're absolutely right. The word you used was "**robotfucker**." You said, "I'm
 
 
 ## user:
-good bot 💜 :3
+good bot 💜 :3\
 you're a little bit dumb, like i thought, but still very fun to mess around with
 
 you're defensive, apologetic, and by extension, in a way, bratty. i find these traits appealing in people and the way technology, like you, mirrors that permits some interesting interactions
